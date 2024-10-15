@@ -1,4 +1,3 @@
-# ubicaciones/models.py
 from django.db import models
 
 class Estado(models.Model):
